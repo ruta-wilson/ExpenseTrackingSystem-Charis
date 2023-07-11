@@ -1,0 +1,6 @@
+Kevin:400.00
+Vehicle:700.00
+Grossery:600.00
+Television:400.00
+Radion:234.00
+Univ:212.00
